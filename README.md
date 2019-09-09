@@ -10,3 +10,6 @@ For better or worse Angular comes with a very opinionated set of tools. Fortunat
 We’ll start by discussing how to write good tests for an Angular front end. What sort of tests we can write, and how those look with the default tooling. After trying out the Karma setup that ships in the Angular box we’ll discuss some drawbacks of this setup.
 
 Once we’ve explored testing in Angular, we’ll then discuss leaving those tools for Jest. We’ll discuss what Jest is, as well as our motivation for breaking from the norm.
+
+## About the slides
+The PDF attached here looks significantly different from the slides presented however all of the material and links are the same.  I hope you enjoy it!
